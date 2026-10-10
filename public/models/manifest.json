@@ -1,0 +1,74 @@
+{
+  "desk": {
+    "objects": 10,
+    "file": "desk.glb"
+  },
+  "chair": {
+    "objects": 2,
+    "file": "chair.glb"
+  },
+  "person-seated": {
+    "objects": 9,
+    "file": "person-seated.glb"
+  },
+  "person-standing": {
+    "objects": 9,
+    "file": "person-standing.glb"
+  },
+  "person-seated-1": {
+    "objects": 9,
+    "file": "person-seated-1.glb"
+  },
+  "person-standing-1": {
+    "objects": 9,
+    "file": "person-standing-1.glb"
+  },
+  "person-seated-2": {
+    "objects": 9,
+    "file": "person-seated-2.glb"
+  },
+  "person-standing-2": {
+    "objects": 9,
+    "file": "person-standing-2.glb"
+  },
+  "person-seated-3": {
+    "objects": 9,
+    "file": "person-seated-3.glb"
+  },
+  "person-standing-3": {
+    "objects": 9,
+    "file": "person-standing-3.glb"
+  },
+  "plant": {
+    "objects": 4,
+    "file": "plant.glb"
+  },
+  "coffee-station": {
+    "objects": 7,
+    "file": "coffee-station.glb"
+  },
+  "water-cooler": {
+    "objects": 5,
+    "file": "water-cooler.glb"
+  },
+  "bookshelf": {
+    "objects": 8,
+    "file": "bookshelf.glb"
+  },
+  "sofa": {
+    "objects": 5,
+    "file": "sofa.glb"
+  },
+  "floor-lamp": {
+    "objects": 4,
+    "file": "floor-lamp.glb"
+  },
+  "meeting-table": {
+    "objects": 6,
+    "file": "meeting-table.glb"
+  },
+  "wall-clock": {
+    "objects": 3,
+    "file": "wall-clock.glb"
+  }
+}
